@@ -1,5 +1,6 @@
 <h1>Code-page</h1>
-Projeto feito para praticar os conhecimentos básicos do front-end.
+Projeto feito para praticar os conhecimentos básicos do front-end.<br/>
+Link do projeto: https://ernestonto.github.io/code-page/
 <br/>
 
 <h2>Tecnologias utilizadas</h2>
